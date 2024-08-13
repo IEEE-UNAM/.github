@@ -1,10 +1,10 @@
 # IEEE UNAM
 
-![IEEE Generacion 2024-1](scr/IEEE-2024-1.jpg)
-
 IEEE UNAM FI es la rama estudiantil del Instituto de Ingenieros Eléctricos Electrónicos en la Facultad de Ingeniería de la UNAM.
 
 Fomentamos el desarrollo profesional y académico en ingeniería eléctrica, electrónica y áreas afines a través de eventos, talleres, cursos, proyectos y networking.
+
+![IEEE Generacion 2024-1](scr/IEEE-2024-1.jpg)
 
 > *Promoviendo la innovación y excelencia tecnológica.*
 
